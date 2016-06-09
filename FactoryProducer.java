@@ -9,6 +9,7 @@ package com.designpattern.abstractfactory;
  * We create an abstract factory class AbstractFactory as next step. 
  * Factory classes ShapeFactory and ColorFactory are defined where each factory extends AbstractFactory. 
  * A factory creator/generator class FactoryProducer is created.
+ * 
  */
 
 
