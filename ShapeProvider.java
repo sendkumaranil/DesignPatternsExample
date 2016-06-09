@@ -6,6 +6,7 @@ package com.designpattern.factory;
  * In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
  * We're going to create a Shape interface and concrete classes implementing the Shape interface. 
  * A factory class ShapeFactory is responsible to provide shape on demand
+ * 
  */
 public class ShapeProvider {
 
