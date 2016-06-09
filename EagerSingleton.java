@@ -1,4 +1,9 @@
 package com.designpattern.singleton;
+/*
+*Author:Anil Kumar
+*email:anitowrite@hotmail.com
+*
+*/
 
 public class EagerSingleton {
 
