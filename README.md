@@ -1,5 +1,6 @@
 # DesignPatternsExample
-Design Pattern Examples in Java Language
+<h4>Design Pattern Examples in Java Language</h4>
+<hr>
 
 <b>Step-1:</b><br> create JavaProject and name it DesignPatternExample<br>
 <b>Step-2:</b><br> create following packages and classes
