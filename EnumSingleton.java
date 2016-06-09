@@ -1,4 +1,8 @@
 package com.designpattern.singleton;
+/*
+*author:Anil Kumar
+*email:anitowrite@hotmail.com
+*/
 
 public class EnumSingleton {
 
