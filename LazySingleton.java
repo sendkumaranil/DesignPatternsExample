@@ -4,7 +4,8 @@ package com.designpattern.singleton;
  * 
  * @author Anil Kumar (anitowrite@hotmail.com)
  * This pattern involves a single class which is responsible to create an object while making sure that only single object gets created. 
- *
+ * 
+ * 
  */
 public class LazySingleton {
 
