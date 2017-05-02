@@ -52,7 +52,7 @@ Proxy Subclass:
 			private CommandExecutor executor;
 			
 			public CommandExecutorProxy(String user, String pwd){
-				if("Pankaj".equals(user) && "J@urnalD$v".equals(pwd)) isAdmin=true;
+				if("Pankaj".equals(user) && "akumar".equals(pwd)) isAdmin=true;
 				executor = new CommandExecutorImpl();  //using subclass object to controll.
 			}
 			
